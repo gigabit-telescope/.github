@@ -14,6 +14,7 @@ If you're interested in learning more about SuperBIT, you can visit the followin
 * SuperBIT Flight Overview - Gill et al. 2024 - [https://arxiv.org/abs/2408.01847](https://arxiv.org/abs/2408.01847)
 
 ![SuperBIT Telescope on the Wanaka Launch Pad in 2023 in New Zealand - Credits: Bill Rodman/NASA](https://github.com/gigabit-telescope/.github/blob/main/media/superbit_launch_2023.png)
+
 SuperBIT Telescope on the Wanaka Launch Pad in 2023 in New Zealand - Credits: Bill Rodman/NASA
   
 
