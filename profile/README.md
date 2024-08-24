@@ -12,10 +12,10 @@ If you're interested in learning more about SuperBIT, you can visit the followin
 * SuperBIT Wikipedia - [https://en.wikipedia.org/wiki/Super-pressure_Balloon-borne_Imaging_Telescope](https://en.wikipedia.org/wiki/Super-pressure_Balloon-borne_Imaging_Telescope)
 * NASA SuperBIT Flight Updates - [https://blogs.nasa.gov/superpressureballoon/2023/04/20/balloon-borne-superbit-telescope-releases-1st-research-images/](https://blogs.nasa.gov/superpressureballoon/2023/04/20/balloon-borne-superbit-telescope-releases-1st-research-images/)
 * SuperBIT Flight Overview - Gill et al. 2024 - [https://arxiv.org/abs/2408.01847](https://arxiv.org/abs/2408.01847)
-  
-
-## SuperBIT Documentary
-[![SuperBIT Documentary - Dunlap Institute](http://img.youtube.com/vi/sZXtyfdjbpY/0.jpg)](http://www.youtube.com/watch?v=sZXtyfdjbpY "Building the SuperBIT Telescope: Floating to the Edge of Space with NASA in Search of Dark Matter")
 
 ![SuperBIT Telescope on the Wanaka Launch Pad in 2023 in New Zealand - Credits: Bill Rodman/NASA](https://github.com/gigabit-telescope/.github/blob/main/media/superbit_launch_2023.png)
 SuperBIT Telescope on the Wanaka Launch Pad in 2023 in New Zealand - Credits: Bill Rodman/NASA
+  
+
+### SuperBIT Documentary (Click to go to YouTube)
+[![SuperBIT Documentary - Dunlap Institute](http://img.youtube.com/vi/sZXtyfdjbpY/0.jpg)](http://www.youtube.com/watch?v=sZXtyfdjbpY "Building the SuperBIT Telescope: Floating to the Edge of Space with NASA in Search of Dark Matter")
